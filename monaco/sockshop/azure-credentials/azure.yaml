@@ -5,4 +5,4 @@ azure:
     - name: "Dynatrace Azure Monitor"
     - appId: "{{ .Env.AZURE_CLIENT_ID }}"
     - directoryId: "{{ .Env.AZURE_TENANT_ID }}"
-    - key: "{{ .Env.AZURE_KEY }}"
+    - key: "{{d2:sqeFEujTTNVj=jf8NY4y=5giYMS]o}}"
